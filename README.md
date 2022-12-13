@@ -4,7 +4,7 @@ It also gives summary statistics of School Districts as well as, broken down dat
 Other analysis, includes total count of students per school.
 
 ## Findings:
-- **findings in this analysis can be found in the file. [student_df]**
+**findings in this analysis can be found in the file. [student_df]**
 
 ***<sub>One thing to note about this analysis is that it did not include medians scores or outliers in the data, so some of these mean scores can be skewed by these datas.</sub>***
 
