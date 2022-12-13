@@ -4,7 +4,8 @@ It also gives summary statistics of School Districts as well as, broken down dat
 Other analysis, includes total count of students per school.
 
 ## Findings:
-- ***findings in this analysis can be found in the file. [student_df]***
+- **findings in this analysis can be found in the file. [student_df]**
+- <sub>One thing to note about this analysis is that it did not include medians scores or outliers in the data, so some of these mean scores can be skewed by these datas.</sub>
 
 - The mean math score for all grades and schools was 64.67%, this tells us that the average math score for all grades and school is relativly low. Having this information can help the schools better prepare students math related courses and exam
 
@@ -12,6 +13,4 @@ Other analysis, includes total count of students per school.
 
 - Another finding found were mean math scores for Charter and Public schools for all grades. It revealed that the students in Charter schools were scoring a mean of 66.76% for math and students in Public schools were scoring 62.95% in math. This shows that Charter and Public schools, scores for math were relatively even. This data would help both schools to help prepare students better for math.
 
-- Analysis of school budget was also examined. and it showed that both charter and public schools had similiar amount of school budget. 
-
-- One thing to note about this analysis is that it did not include medians scores or outliers in the data, so some of these mean scores can be skewed by these datas. 
+- Analysis of school budget was also examined. and it showed that both charter and public schools had similiar amount of school budget.  
