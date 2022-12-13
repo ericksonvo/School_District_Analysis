@@ -15,3 +15,6 @@ Other analysis, includes total count of students per school.
 - Another finding found were mean math scores for Charter and Public schools for all grades. It revealed that the students in Charter schools were scoring a mean of 66.76% for math and students in Public schools were scoring 62.95% in math. This shows that Charter and Public schools, scores for math were relatively even. This data would help both schools to help prepare students better for math.
 
 - Analysis of school budget was also examined. and it showed that both charter and public schools had similiar amount of school budget.  
+
+# Summary:
+In summary this data can be used for the schools to see how their students performed in subjects math and reading. This can help the school prepare students better for any exam and test taking skills. 
