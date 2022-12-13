@@ -5,7 +5,7 @@ Other analysis, includes total count of students per school.
 
 ## Findings:
 - **findings in this analysis can be found in the file. [student_df]**
-- <sub>One thing to note about this analysis is that it did not include medians scores or outliers in the data, so some of these mean scores can be skewed by these datas.</sub>
+***<sub>One thing to note about this analysis is that it did not include medians scores or outliers in the data, so some of these mean scores can be skewed by these datas.</sub>***
 
 - The mean math score for all grades and schools was 64.67%, this tells us that the average math score for all grades and school is relativly low. Having this information can help the schools better prepare students math related courses and exam
 
